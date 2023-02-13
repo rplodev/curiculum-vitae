@@ -3,51 +3,48 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Stéphane Philippart
+    tagline: Developer Relation
+    avatar: stephane_philippart.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: +33 1 23 45 67 89
-    timezone: Etats Unis/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: s.philippart@gmail.com
+    phone: +33 6 70 23 86 01
+    timezone: Paris/France Timezone
+    citizenship: Française
+    website: philippart-s.github.io/blog/ #do not add http://
+    linkedin: philippartstephane
+    xing: 
+    github: philippart-s
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: '@philippart-s'
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@wildagsx'
+    stack-overflow: 2471248/wilda # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Langues
       info:
-        - idiom: Anglais
+        - idiom: Français
           level: Natif
 
-        - idiom: Français
-          level: Professionnel
-
-        - idiom: Espagnole
+        - idiom: Anglais
           level: Professionnel
 
     interests:
       title: Centres d'intérêts
       info:
-        - item: Escalade
-          link:
+        - item: Co-créateur du meetup TADx
+          link: https://www.tadx.fr
 
-        - item: Snowboarding
+        - item: Running
           link:
 
         - item: Cuisine
@@ -56,165 +53,118 @@ sidebar:
 career-profile:
     title: A propos
     summary: |
-      Expliquez en quelques mots votre parcours here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Passionné de technologies et toujours curieux d’apprendre, je suis depuis longtemps (20 ans) dans l’expertise Java. La nécessité et l’envie de maîtriser l’ensemble du processus de création, mais aussi de mise à disposition des applications ont fait que je me suis aussi spécialisé dans le monde “CI / CD”. Cela me permet de mettre en pratique et de partager les pratiques DevOps.
+      Le partage est un élément essentiel pour moi: c’est pourquoi j’ai co-créé une association dont le but est d’organiser des meetups autour de l’agilité et du DevOps : TADx.
+
+      Toujours dans le but de partager je suis aussi speaker lors de conférences.
+
 education:
     title: Formation
     info:
-      - degree: MSc en informatique
-        university: Université de Londres
-        time: 2011 - 2012
+      - degree: Ingénieur en Informatique
+        university: Polytech Tours
+        time: 1999
         details: |
-          Indiquez ici vos études lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - élément de liste à puces
-            - élément de liste à puces  
-      - degree: BSc en mathématiques appliquées
-        university: Université de Bristol
-        time: 2007 - 2011
+          Ecole d’ingénieur en informatique (développement). 
+      - degree: DUT Informatique
+        university: Université d’Orléans - Tours
+        time: 1996
         details: |
-          Indiquez ici vos études here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - élément de liste à puces
-            - élément de liste à puces
+          Diplôme d’informatique de gestion.
+      - degree: BAC D
+        university: Lycée Claude de France à Romorantin
+        time: 1993
+        details: |
+          Filière générale option biologie.
+
 experiences:
     title: Experiences professionnelles
     info:
-      - role: Lead Developer
-        time: 2015 - Aujourd’hui
-        company: Startup Hubs, San Francisco
+      - role: Developer Relation
+        time: 2022 - Aujourd'hui
+        company: OVHcloud, Tours
         details: |
-          Décrire ici votre rôle lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - élément de liste à puces
-            - élément de liste à puces
-      - role: Ingénieur logiciel sénior
-        time: 2014 - 2015
-        company: Google, Londres
+          Client zéro auprès des équipes produits pour tester les produits.
+          Technical writer pour les guides officiels et des blog posts d'entreprise.
+          Participation aux conférences en tant qu'orateur et tenue de stand.
+          Animations des communautés de développement en interne et en externe.
+          Développement de POC et démos.
+
+      - role: Architecte Logiciel
+        time: 2008 - 2022
+        company: Harmonie-Mutuelle, Tours
         details: |
-          Décrire ici votre rôle lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - élément de liste à puces
-            - élément de liste à puces
-      - role: UI Developpeur
-        time: 2012 - 2014
-        company: Amazon, Londres
+          Mise à disposition de socles pour les équipes de développement : Spring*, JEE, Angular, Business Works (ESB). 
+          Développement de Frameworks internes (SpringBoot & Angular).
+          Conception et réalisation de la plateforme d'intégration continue basée sur Jenkins 2 (“pipelines as code”), Sonarqube et GitHub. 
+          Mise en place de la chaîne “CI / CD” sur Openshift 4.
+
+      - role: Ingénieur logiciel Java / JEE 
+        time: 2006 - 2008
+        company: Apside TOP, Tours
         details: |
-          Décrire ici votre rôle lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - élément de liste à puces
-            - élément de liste à puces
+          Mise en place d'applications Web en tant qu’expert JEE en prestation chez Coface Services et accompagnement du personnels interne dans sa montée en compétences . 
+          Rôle de tech lead au sein des équipes.
+
+      - role: Chef de projet technique
+        time: 2004 - 2006
+        company: Delta Informatique, Tours
+        details: |
+          Mise en place de sites web (secteur banque et assurances) en JEE (déployés sur Weblogic) comme développeur expert puis chef de projets techniques (spécifications techniques, développement et mise en place chez les clients) sur les mêmes technologies.
+
+      - role: Ingénieur Java / JEE
+        time: 2002 - 2004
+        company: Prima Solutions, Paris
+        details: |
+          Développement de front end et back end dans le secteur assurance et pour le site assurland.com. Accompagnement clientèle pour le déploiement de solutions JEE / Weblogic.
+
+
 projects:
     title: Projets personnels
-    intro: >
-      Vous pouvez lister vos side projects ici. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "Un site web responsive pour aider les startups pour leur publicité, marché et la vente de leurs produits."
+      - title: TADx
+        link: https://www.tadx.fr
+        tagline: "Co-créateur d'un meetup à Tours. Ce meetup a pour objectif d'organiser un évènement par mois autour des sujets divers et variés que l'on peut trouver dans l’écosystème IT."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "Un site web responsive pour aider les développeurs web ou les designers à vender leurs services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "Un template de site web responsive pour aider les startups à fair la promotion de leurs produits ou services ainsi que pour attirer les investisseurs."
-
-      - title: Atom
-        link: "#"
-        tagline: "Un template complet de site web pour les startups et les développeurs pour vendre leurs applications mobiles."
-
-      - title: Delta
-        link: "#"
-        tagline: "Un thème Boostrap responsive en mode une seule page pour aider les développeurs à vendre leurs applications."
+      - title: Blog personnel
+        link: https://philippart-s.github.io/blog/
+        tagline: "Blog personnel pour partager autour de sujets techniques."
 
 oss:
-    title: Contrbutions Open Source
-    intro: >
-      Vous pouvez lister ici vos contributions open source dans cette section.
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Contributions Open Source
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "Un template de site web responsive pour aider les startups à fair la promotion de leurs produits ou services ainsi que pour attirer les investisseurs."
+      - title: Jenkins conventional commits plugin
+        link: https://github.com/jenkinsci/conventional-commits-plugin/
+        tagline: "Plugin Jenkins permettant le calcule automatique des versions en fonction des messages de commit."
 
-      - title: Atom
-        link: "#"
-        tagline: "Un template complet de site web pour les startups et les développeurs pour vendre leurs applications mobiles."
-
-      - title: Delta
-        link: "#"
-        tagline: "Un thème Boostrap responsive en mode une seule page pour aider les développeurs à vendre leurs applications."
-
-publications:
-    title: Publications
-    intro: |
-      Vous pouvez lister ici vos publication. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: L'art de développer un logiciel
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Programmation générique III: Invention darwinienne &amp; Résolution de problèmes"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: Compilateur orienté syntaxe pour Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Developers Conferences Agenda/List
+        link: https://github.com/scraly/developers-conferences-agenda
+        tagline: "Repository de centralisation des date de conférences et CFP."
 
 skills:
     title: Compétences &amp; Aptitudes
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
+      - name: Docker
+        level: 90%
+
+      - name: Kubernetes
+        level: 90%
+
+      - name: AI (Machine Learning)
+        level: 75%
+
+      - name: Jenkins
+        level: 98%
+
+      - name: DevOps
+        level: 90%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
