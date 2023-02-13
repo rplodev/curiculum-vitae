@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: 2471248/wilda # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /print-fr
+    pdf: /assets/pdf/cv-fr-stephane-philippart.pdf
 
     languages:
       title: Langues
