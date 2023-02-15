@@ -1,54 +1,47 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: left # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Stéphane Philippart
+    tagline: Developer Relation
+    avatar: stephane_philippart.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: s.philippart@gmail.com
+    phone: +33 6 70 23 86 01
+    timezone: Paris/France Timezone
+    citizenship: French
+    website: philippart-s.github.io/blog/ #do not add http://
+    linkedin: philippartstephane
+    xing: 
+    github: philippart-s
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: '@philippart-s'
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@wildagsx'
+    stack-overflow: 2471248/wilda # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: /assets/pdf/cv-en-stephane-philippart.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: French
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Co-creator of TADx meetup
+          link: https://www.tadx.fr
 
-        - item: Snowboarding
+        - item: Running
           link:
 
         - item: Cooking
@@ -57,166 +50,123 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Après de longues années passées dans le monde du développement, de l'expertise et de l'architecture logicielle j'ai choisi de changer de voie.
+      En effet, les relations avec les développeuses et développeurs étant un élément très important pour moi j'ai décidé de devenir Developer Relation. 
+
+      Le partage est un élément essentiel pour moi: c’est pourquoi j’ai co-créé une association dont le but est d’organiser des meetups autour de l’agilité et du DevOps : TADx.
+      Toujours dans le but de partager je suis aussi speaker lors de conférences.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ingénieur en Informatique
+        university: Polytech Tours
+        time: 1999
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Ecole d’ingénieur en informatique (développement). 
+      - degree: DUT Informatique
+        university: Université d’Orléans - Tours
+        time: 1996
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Diplôme d’informatique de gestion.
+      - degree: BAC D
+        university: Lycée Claude de France à Romorantin
+        time: 1993
+        details: |
+          Filière générale option biologie.
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Developer Relation
+        time: 2022 - Aujourd'hui
+        company: OVHcloud, Tours
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Client zéro auprès des équipes produits pour tester les produits.
+          Technical writer pour les guides officiels et des blog posts d'entreprise.
+          Participation aux conférences en tant qu'orateur et tenue de stand.
+          Animations des communautés de développement en interne et en externe.
+          Développement de POC et démos.
+
+      - role: Architecte Logiciel
+        time: 2008 - 2022
+        company: Harmonie-Mutuelle, Tours
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Mise à disposition de socles pour les équipes de développement : Spring*, JEE, Angular, Business Works (ESB). 
+          Développement de Frameworks internes (SpringBoot & Angular).
+          Conception et réalisation de la plateforme d'intégration continue basée sur Jenkins 2 (“pipelines as code”), Sonarqube et GitHub. 
+          Mise en place de la chaîne “CI / CD” sur Openshift 4.
+
+      - role: Ingénieur logiciel Java / JEE 
+        time: 2006 - 2008
+        company: Apside TOP, Tours
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Mise en place d'applications Web en tant qu’expert JEE en prestation chez Coface Services et accompagnement du personnels interne dans sa montée en compétences . 
+          Rôle de tech lead au sein des équipes.
+
+      - role: Chef de projet technique
+        time: 2004 - 2006
+        company: Delta Informatique, Tours
+        details: |
+          Mise en place de sites web (secteur banque et assurances) en JEE (déployés sur Weblogic) comme développeur expert puis chef de projets techniques (spécifications techniques, développement et mise en place chez les clients) sur les mêmes technologies.
+
+      - role: Ingénieur Java / JEE
+        time: 2002 - 2004
+        company: Prima Solutions, Paris
+        details: |
+          Développement de front end et back end dans le secteur assurance et pour le site assurland.com. Accompagnement clientèle pour le déploiement de solutions JEE / Weblogic.
+
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: TADx
+        link: https://www.tadx.fr
+        tagline: "Co-créateur d'un meetup à Tours. Ce meetup a pour objectif d'organiser un évènement par mois autour des sujets divers et variés que l'on peut trouver dans l’écosystème IT."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Blog personnel
+        link: https://philippart-s.github.io/blog/
+        tagline: "Blog personnel pour partager autour de sujets techniques."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Conférences données
+        link: https://noti.st/philippart-s
+        tagline: "Slides et vidéos des conférences données."
 
 oss:
     title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Jenkins conventional commits plugin
+        link: https://github.com/jenkinsci/conventional-commits-plugin/
+        tagline: "Plugin Jenkins permettant le calcule automatique des versions en fonction des messages de commit."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Developers Conferences Agenda/List
+        link: https://github.com/scraly/developers-conferences-agenda
+        tagline: "Repository de centralisation des date de conférences et CFP."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
+      - name: Docker
+        level: 90%
+
+      - name: Kubernetes
+        level: 90%
+
+      - name: AI (Machine Learning)
+        level: 75%
+
+      - name: Jenkins
+        level: 98%
+
+      - name: DevOps
+        level: 90%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

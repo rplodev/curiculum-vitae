@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -54,9 +50,10 @@ sidebar:
 career-profile:
     title: A propos
     summary: |
-      Passionné de technologies et toujours curieux d’apprendre, je suis depuis longtemps (20 ans) dans l’expertise Java. La nécessité et l’envie de maîtriser l’ensemble du processus de création, mais aussi de mise à disposition des applications ont fait que je me suis aussi spécialisé dans le monde “CI / CD”. Cela me permet de mettre en pratique et de partager les pratiques DevOps.
-      Le partage est un élément essentiel pour moi: c’est pourquoi j’ai co-créé une association dont le but est d’organiser des meetups autour de l’agilité et du DevOps : TADx.
+      Après de longues années passées dans le monde du développement, de l'expertise et de l'architecture logicielle j'ai choisi de changer de voie.
+      En effet, les relations avec les développeuses et développeurs étant un élément très important pour moi j'ai décidé de devenir Developer Relation. 
 
+      Le partage est un élément essentiel pour moi: c’est pourquoi j’ai co-créé une association dont le but est d’organiser des meetups autour de l’agilité et du DevOps : TADx.
       Toujours dans le but de partager je suis aussi speaker lors de conférences.
 
 education:
@@ -131,6 +128,10 @@ projects:
       - title: Blog personnel
         link: https://philippart-s.github.io/blog/
         tagline: "Blog personnel pour partager autour de sujets techniques."
+
+      - title: Conférences données
+        link: https://noti.st/philippart-s
+        tagline: "Slides et vidéos des conférences données."
 
 oss:
     title: Contributions Open Source
