@@ -5,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Stéphane Philippart
-    tagline: Developer Relation
+    tagline: Developer Advocate / Developer Relation
     avatar: stephane_philippart.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,7 +51,7 @@ career-profile:
     title: A propos
     summary: |
       Après de longues années passées dans le monde du développement, de l'expertise et de l'architecture logicielle j'ai choisi de changer de voie.
-      En effet, les relations avec les développeuses et développeurs étant un élément très important pour moi j'ai décidé de devenir Developer Relation. 
+      En effet, les relations avec les développeuses et développeurs étant un élément très important pour moi j'ai décidé de devenir Developer Advocate. 
 
       Le partage est un élément essentiel pour moi: c’est pourquoi j’ai co-créé une association dont le but est d’organiser des meetups autour de l’agilité et du DevOps : TADx.
       Toujours dans le but de partager je suis aussi speaker lors de conférences.
@@ -78,7 +78,7 @@ education:
 experiences:
     title: Experiences professionnelles
     info:
-      - role: Developer Relation
+      - role: Developer Advocate / Developer Relation 
         time: 2022 - Aujourd'hui
         company: OVHcloud, Tours
         details: |
@@ -148,15 +148,24 @@ skills:
     title: Compétences &amp; Aptitudes
 
     toolset:
+      - name: Tech writer
+        level: 100%
+      - name: Speaker
+        level: 100%
+      - name: Evangelisation
+        level: 100%
+      - name: Cloud
+        level: 90%
+      - name: Architecture technique et logicielle
+        level: 90%
+
       - name: Java
         level: 98%
-
       - name: Python
         level: 60%
 
       - name: Docker
         level: 90%
-
       - name: Kubernetes
         level: 90%
 
@@ -165,7 +174,6 @@ skills:
 
       - name: Jenkins
         level: 98%
-
       - name: DevOps
         level: 90%
 
