@@ -80,22 +80,23 @@ experiences:
     info:
       - role: Developer Advocate / Developer Relation 
         time: 2022 - Aujourd'hui
-        company: OVHcloud, Tours
+        company: OVHcloud, Paris
         details: |
-          Client zéro auprès des équipes produits pour tester les produits.
-          Technical writer pour les guides officiels et des blog posts d'entreprise.
-          Participation aux conférences en tant qu'orateur et tenue de stand.
-          Animations des communautés de développement en interne et en externe.
+          Developer Advocate au sein des équipes public cloud d'OVHcloud et plus particulièrement d'Intelligence Artificielle et cloud native.  
+          Client zéro auprès des équipes produits pour tester les produits.  
+          Technical writer pour les guides officiels et des blog posts d'entreprise.  
+          Participation aux conférences en tant qu'orateur et tenue de stand.  
+          Animations des communautés de développement en interne et en externe.  
           Développement de POC et démos.
 
-      - role: Architecte Logiciel
+      - role: Architecte Logiciel / Platform engineer
         time: 2008 - 2022
         company: Harmonie-Mutuelle, Tours
         details: |
-          Mise à disposition de socles pour les équipes de développement : Spring*, JEE, Angular, Business Works (ESB). 
-          Développement de Frameworks internes (SpringBoot & Angular).
-          Conception et réalisation de la plateforme d'intégration continue basée sur Jenkins 2 (“pipelines as code”), Sonarqube et GitHub. 
-          Mise en place de la chaîne “CI / CD” sur Openshift 4.
+          Mise à disposition de socles pour les équipes de développement : Spring*, JEE, Angular, Business Works (ESB).  
+          Développement de Frameworks internes (SpringBoot & Angular).  
+          Conception et réalisation de la plateforme d'intégration continue basée sur Jenkins 2 (“pipelines as code”), SonarQube et GitHub.   
+          Mise en place de la chaîne “CI / CD” sur OpenShift.
 
       - role: Ingénieur logiciel Java / JEE 
         time: 2006 - 2008
@@ -143,11 +144,17 @@ oss:
       - title: Developers Conferences Agenda/List
         link: https://github.com/scraly/developers-conferences-agenda
         tagline: "Repository de centralisation des date de conférences et CFP."
+      
+      - title: LangChain4j
+        link: https://github.com/langchain4j/langchain4j/
+        tagline: "Repository permettant l'utilisation de LLM au sein d'applications Java."
 
 skills:
     title: Compétences &amp; Aptitudes
 
     toolset:
+      - name: AI (Machine Learning)
+        level: 90%
       - name: Tech writer
         level: 100%
       - name: Speaker
@@ -155,7 +162,7 @@ skills:
       - name: Evangelisation
         level: 100%
       - name: Cloud
-        level: 90%
+        level: 95%
       - name: Architecture technique et logicielle
         level: 90%
 
@@ -168,9 +175,6 @@ skills:
         level: 90%
       - name: Kubernetes
         level: 90%
-
-      - name: AI (Machine Learning)
-        level: 75%
 
       - name: Jenkins
         level: 98%
