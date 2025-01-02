@@ -113,6 +113,11 @@ p {
     margin-top: 0;
     margin-bottom: 5px;
   }
+  .certifications-name {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
   .education-container {
     .item {
       margin-bottom: 15px;
@@ -133,19 +138,19 @@ p {
     }
   }
   .certifications-container {
-    .name {
+    .certifications-name {
       margin-bottom: 15px;
       &:last-child {
         margin-bottom: 0;
       }
     }
-    .brand {
+    .certifications-brand {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
       margin-bottom: 0px;
       margin-top: 0;
     }
-    .time {
+    .certifications-time {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
       margin-bottom: 0px;
@@ -203,7 +208,7 @@ p {
     }
   }
   .certifications-section {
-    .item {
+    .certifications-item {
       margin-bottom: 30px;
     }
   }

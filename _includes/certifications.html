@@ -8,10 +8,10 @@
     </h2>
 
     {% for certification in certifications.info %}
-    <div class="item">
-      <h4 class="name">{{ certification.name }}</h4>
-      <h5 class="brand">{{ certification.brand }}</h5>
-      <div class="time">{{ certification.time }}</div>
+    <div class="certifications-item">
+      <h4 class="certifications-name">{{ certification.name }}</h4>
+      <h5 class="certifications-brand">{{ certification.brand }}</h5>
+      <div class="certifications-time">{{ certification.time }}</div>
     </div><!--//item-->
     {% endfor %}
 
