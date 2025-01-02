@@ -89,11 +89,13 @@ experiences:
         company: THALES SIX GTS France, Gennevilliers
         details: |
           Architecte Réseaux sur un projet de modernisation de réseau d'opérateur privé hautement sécurisé et de dimension nationale.
+          
           Mes attributions étaient : 
             * Concevoir l'architecture du Réseau et du Transport,
             * Assurer le pilotage technique des équipes d'intégration en charge du Réseau,
             * Spécifier les évolutions du logiciel de modélisation, de gestion et d'automatisation du Réseau et du Transport,
             * Mener des ateliers de conception pluridisciplinaire.
+          
           Les technologies étaient : 
             * DWDM : NOKIA
             * Routage et commutation : NOKIA, CISCO, HPE
