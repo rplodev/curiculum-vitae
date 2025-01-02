@@ -1,23 +1,23 @@
 {% assign certifications = data.certifications %}
 {% if certifications %}
   {% if data.sidebar.certifications %}
-  <div class="certifications-container container-block">
+  <div class="education-container container-block">
 
     <h2 class="container-block-title">
       {{ certifications.title }}
     </h2>
 
     {% for certification in certifications.info %}
-    <div class="certifications-item">
-      <h4 class="certifications-name">{{ certification.name }}</h4>
-      <h5 class="certifications-brand">{{ certification.brand }}</h5>
-      <div class="certifications-time">{{ certification.time }}</div>
+    <div class="item">
+      <h4 class="degree">{{ certification.name }}</h4>
+      <h5 class="meta">{{ certification.brand }}</h5>
+      <div class="time">{{ certification.time }}</div>
     </div><!--//item-->
     {% endfor %}
 
-  </div><!--//certifications-container-->
+  </div><!--//education-container-->
   {% else %}
-  <section class="section certifications-section">
+  <section class="section educations-section">
 
     <h2 class="section-title">
       <span class="fa-stack fa-xs">
@@ -33,11 +33,11 @@
       <div class="meta">
 
         <div class="upper-row">
-          <h3 class="name">{{ certification.name }}</h3>
+          <h3 class="degree">{{ certification.name }}</h3>
           <div class="time">{{ certification.time }}</div>
         </div><!--//upper-row-->
 
-        <div class="brand">{{ certification.brand }}</div>
+        <div class="university">{{ certification.brand }}</div>
       </div><!--//meta-->
 
       {% if certification.details %}

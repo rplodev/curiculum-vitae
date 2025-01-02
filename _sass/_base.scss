@@ -113,11 +113,6 @@ p {
     margin-top: 0;
     margin-bottom: 5px;
   }
-  .certifications-name {
-    font-size: 14px;
-    margin-top: 0;
-    margin-bottom: 5px;
-  }
   .education-container {
     .item {
       margin-bottom: 15px;
@@ -132,25 +127,6 @@ p {
       margin-top: 0;
     }
     .time {
-      color: rgba(256, 256, 256, 0.6);
-      font-weight: 500;
-      margin-bottom: 0px;
-    }
-  }
-  .certifications-container {
-    .certifications-name {
-      margin-bottom: 15px;
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
-    .certifications-brand {
-      color: rgba(256, 256, 256, 0.6);
-      font-weight: 500;
-      margin-bottom: 0px;
-      margin-top: 0;
-    }
-    .certifications-time {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
       margin-bottom: 0px;
@@ -204,11 +180,6 @@ p {
   .experiences-section,
   .educations-section {
     .item {
-      margin-bottom: 30px;
-    }
-  }
-  .certifications-section {
-    .certifications-item {
       margin-bottom: 30px;
     }
   }
