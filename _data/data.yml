@@ -47,7 +47,7 @@ career-profile:
 
       Œuvrant aujourd'hui dans la fonction publique d'Etat, je contribue à la conception et la réalisation de systèmes de Télécommunications et Réseaux ainsi qu'à leur Automatisation et leur Supervision.
 
-      Convaincu des bienfaits de l'utilisation de systèmes à logiciel prépondérant, je m'épanouis dans la conception et l'intégration et l'automatisation de systèmes complexes basés sur de l'Open Source notamment dans des environnements de Réseaux et de Télécommunications contraints, hautement sécurisés et à forte criticité.
+      Convaincu des bienfaits de l'utilisation de systèmes à logiciel prépondérant, je m'épanouis dans la conception, l'intégration et l'automatisation de systèmes sécurisés complexes basés sur de l'Open Source notamment dans des environnements de Réseaux et de Télécommunications contraints, hautement sécurisés et à forte criticité.
 
       Je m'efforce chaque jour d'améliorer mes compétences par le suivi de parcours de formations académiques, industriels et/ou auto-didactiques.
 
@@ -73,47 +73,16 @@ education:
 experiences:
     title: Experiences professionnelles
     info:
-      - role: Team lead Developer Advocate / Developer Relation 
+      - role: Expert Réseaux et Télécommunications 
         time: 2022 - Aujourd'hui
-        company: OVHcloud, Paris
+        company: OSIIC - Opérateur des Systèmes d’Information Interministériels Classifiés, Paris
         details: |
-          Developer Advocate au sein des équipes public cloud d'OVHcloud et plus particulièrement d'Intelligence Artificielle et cloud native.  
-          Client zéro auprès des équipes produits pour tester les produits.  
-          Technical writer pour les guides officiels et des blog posts d'entreprise.  
-          Participation aux conférences en tant qu'orateur et tenue de stand.  
-          Animations des communautés de développement en interne et en externe.  
-          Développement de POC et démos.  
-          Organisation et animation de la vie d'équipe en tant que team lead (4 personnes).
-
-      - role: Tech lead Architecte Logiciel / Platform engineer
-        time: 2008 - 2022
-        company: Harmonie-Mutuelle, Tours
+          
+      - role: Formateur vacataire au CFSSI
+        time: 2003 - Aujourd'hui
+        company: ANSSI - Agence nationale de la sécurité des systèmes d'information, Paris
         details: |
-          Mise à disposition de socles pour les équipes de développement : Spring*, JEE, Angular, Business Works (ESB).  
-          Développement de Frameworks internes (SpringBoot & Angular).  
-          Conception et réalisation de la plateforme d'intégration continue basée sur Jenkins 2 (“pipelines as code”), SonarQube et GitHub.   
-          Mise en place de la chaîne “CI / CD” sur OpenShift.  
-          Organisation et animation de la vie d'équipe en tant que tech lead (5 personnes).
-
-      - role: Ingénieur logiciel Java / JEE 
-        time: 2006 - 2008
-        company: Apside TOP, Tours
-        details: |
-          Mise en place d'applications Web en tant qu’expert JEE en prestation chez Coface Services et accompagnement du personnels interne dans sa montée en compétences . 
-          Rôle de tech lead au sein des équipes.
-
-      - role: Chef de projet technique
-        time: 2004 - 2006
-        company: Delta Informatique, Tours
-        details: |
-          Mise en place de sites web (secteur banque et assurances) en JEE (déployés sur Weblogic) comme développeur expert puis chef de projets techniques (spécifications techniques, développement et mise en place chez les clients) sur les mêmes technologies.
-
-      - role: Ingénieur Java / JEE
-        time: 2002 - 2004
-        company: Prima Solutions, Paris
-        details: |
-          Développement de front end et back end dans le secteur assurance et pour le site assurland.com. Accompagnement clientèle pour le déploiement de solutions JEE / Weblogic.
-
+          Dispense du cours "Sécurité des architectures de Voix sur IP" suivi par les auditeurs du stage "Responsable de la sécurité des systèmes d’information (RSSI) - Aspects techniques".
 
 projects:
     title: Projets personnels
