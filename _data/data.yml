@@ -54,21 +54,26 @@ career-profile:
 education:
     title: Formation
     info:
-      - degree: Ingénieur en Informatique
-        university: Polytech Tours
-        time: 1111
-        details: |
-          Ecole d’ingénieur en informatique (développement). 
-      - degree: DUT Informatique
-        university: Université d’Orléans - Tours
-        time: 1996
-        details: |
-          Diplôme d’informatique de gestion.
-      - degree: BAC D
-        university: Lycée Claude de France à Romorantin
-        time: 1993
-        details: |
-          Filière générale option biologie.
+      - degree: Ingénieur Informatique - Option Réseaux, Systèmes et Multimédia
+        university: Conservatoire National des Arts et Métiers, Paris
+        time: En Cours
+        details:
+      - degree: Licence en Informatique Générale - Parcours Web et Internet 
+        university: Conservatoire National des Arts et Métiers, Paris
+        time: 2020
+        details:
+      - degree: Brevet supérieur de spécialité - Administrateur réseaux informatiques et sécurité des systèmes d’informations et de communication
+        university: Ecole de formation des sous-officiers de l’armée de l’air, Rochefort
+        time: 2010
+        details:
+      - degree: Brevet élémentaire de spécialité - Exploitant des systèmes d’informations et de communication
+        university: Ecole de formation des sous-officiers de l’armée de l’air, Rochefort
+        time: 2005
+        details:
+      - degree: Baccalauréat Scientifique
+        university: Lycée de Borda, Dax
+        time: 2003
+        details:
 
 experiences:
     title: Experiences professionnelles
