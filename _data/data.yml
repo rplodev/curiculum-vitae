@@ -9,21 +9,11 @@ sidebar:
     avatar: stephane_philippart.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: s.philippart@gmail.com
-    phone: +33 6 70 23 86 01
+    email: romuald.palomo@gmail.com
+    phone: +33 6 18 07 23 04
     timezone: Paris/France Timezone
     citizenship: Française
-    website: philippart-s.github.io/blog/ #do not add http://
-    linkedin: philippartstephane
-    xing: 
-    github: philippart-s
-    telegram: # add your nickname without '@' sign
-    gitlab: '@philippart-s'
-    bitbucket:
-    twitter: '@wildagsx'
-    stack-overflow: 2471248/wilda # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    linkedin: romualdpalomo
     pdf: /assets/pdf/cv-fr-stephane-philippart.pdf
 
     languages:
@@ -34,6 +24,9 @@ sidebar:
 
         - idiom: Anglais
           level: Professionnel
+        
+        - idiom: Espagnol
+          level: Intermédiaire
 
     interests:
       title: Centres d'intérêts
