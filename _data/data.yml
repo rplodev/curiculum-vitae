@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: A propos
     summary: |
-      Après une carrière militaire relativement singulière par les fonctions que j'ai occupées et la reprise d'un parcours académique, j'ai eu la chance d'explorer au sein de l'industrie de défense les différentes facettes des métiers d'un Ingénieur Réseaux et Télécom, telles que l'Exploitation, l'Intégration, la Conception et la Spécification, ainsi que l'Architecture de systèmes complexes.
+      Après une carrière militaire relativement singulière par les fonctions que j'ai occupées et la reprise d'un parcours académique, j'ai eu la chance d'explorer au sein de l'industrie de défense les différentes facettes des métiers d'un Ingénieur Réseaux et Télécom, telles que l'Exploitation, l'Intégration, la Conception et la Spécification, ainsi que l'Architecture de systèmes sécurisés complexes.
 
       Œuvrant aujourd'hui dans la fonction publique d'Etat, je contribue à la conception et la réalisation de systèmes de Télécommunications et Réseaux ainsi qu'à leur Automatisation et leur Supervision.
 
@@ -98,6 +98,14 @@ experiences:
         time: 2022 - Aujourd'hui
         company: OSIIC - Opérateur des Systèmes d’Information Interministériels Classifiés, Paris
         details: |
+          Mes attributions sont les suivantes :
+            * Conception et intégration de systèmes de téléphonie (VoIP, Legacy) à haute criticité et hautement sécurisés,
+            * Contribution à l'automatisation du déploiement et du maintien en condition de nos systèmes (NetDevOps),
+            * Contribution à la définition, à la mise en service et au maintien en condition de réseaux sécurisés,
+            * Conception et développement de systèmes de supervision,
+            * Support de niveau 3 aux équipes d'exploitation dans les domaines des Télécommunications et des Réseaux d'entreprises et d'opérateurs.
+          
+          Par soucis de confidentialité, le détail des technologies employées n'est pas communicable.
           
       - role: Formateur vacataire au CFSSI
         time: 2023 - Aujourd'hui
@@ -122,38 +130,79 @@ experiences:
             * Firewall : Stormshield, Stonesoft
             * Transport DWDM et Radio : NOKIA
             * Gestion et automatisation du réseau : Développements internes, Ansible
+            * Langages : Python, Bash
             * Outils d'ingénierie : DOORS, Jira
       
       - role: Ingénieur Système Réseaux IP Sécurisés
         time: 2019 - 2020
         company: THALES SIX GTS France, Gennevilliers
-        details:
+        details: |
+          Ingénieur Système sur un projet de fourniture et d'exploitation d'un système de communications sécurisé embarqué dans un aéronef militaire de gamme civile.
       
-      - role: Ingénieur d'exploitation systèmes
+          Mes attributions étaient :
+            * Contribuer à la définition de l'architecture, définir et spécifier les éléments des composants Backbone Réseau, Satcom, Interconnexions Opérateurs, Système Linux et Téléphonie (IP/Legacy),
+            * Réaliser le cadrage technique et piloter techniquement les équipes chargées de l'intégration,
+            * Concevoir une solution d'IPTV aéro-embarquée over Satcom,
+            * Réaliser les développements du pilotage des liens satellites et des flux associés,
+            * Rénover l'APN privé dédié à la collecte et l'interconnexion du système aux divers réseaux Satcom.
+          
+          Les technologies étaient :
+            * Routage et commutation : CISCO, HPE, Alcatel Lucent, Equipements spécifiques aéro-embarqués
+            * Voix et Vidéo : CISCO CUBE, Tandberg, M2MSoft S5000/G4000, Aastra A5000, Alcatel, AudioCodes, Polycom, Equipements spécifiques aéro-embarqués
+            * Firewall : Stormshield, PfSense
+            * Systèmes d'exploitation : Linux Debian Sécurisé, Microsoft Windows
+            * Langages : Bash, Python, Perl
+            * Supervision : Nagios, Centreon
+            * Outils d'ingénierie : DOORS, Jira
+
+      - role: Ingénieur d'exploitation systèmes / Ingénieur IVVQ
         time: 2015 - 2019
         company: THALES SIX GTS France, Gennevilliers
-        details:
+        details: |
+          Ingénieur d'Exploitation Systèmes sur un projet de fourniture et d'exploitation d'un système de communications sécurisé embarqué dans un aéronef militaire de gamme civile.
+
+          Mes attributions étaient :
+            * Contribuer à l'intégration de serveurs Linux, d'équipements réseaux physiques et logiciels, d'OSS, de COTS, ainsi que de développements internes,
+            * Lead sur l'intégration de la composante de VoIP sécurisée sur réseau à bande contrainte et ses interconnexions, sur les interconnexions avec les Services Providers WAN, de Téléphonie Legacy et Satcom, ainsi que sur la configuration des équipements Satcom Aéro,
+            * Assurer l'exploitation du système chez le client lors de l'utilisation de l'aéronef (déclenchable H24/365) ainsi que la mise en service, les analyses de dysfonctionnements et maintenances,
+
+          Les technologies étaient :
+            * Routage et commutation : CISCO, HPE, Alcatel Lucent, Equipements spécifiques aéro-embarqués
+            * Voix et Vidéo : CISCO CUBE, Tandberg, M2MSoft S5000/G4000, Aastra A5000, Alcatel, AudioCodes, Polycom, Equipements spécifiques aéro-embarqués
+            * Firewall : Stormshield, Arkoon, Netask, CISCO ASA, PfSense
+            * Systèmes d'exploitation : Linux Debian Sécurisé, Microsoft Windows
+            * Langages : Bash, Python, Perl
+            * Supervision : Nagios, Centreon
+            * Outils d'ingénierie : DOORS, Jira
 
       - role: Transmetteur précurseur du Premier Ministre
         time: 2014 - 2015
         company: Cabinet du Premier Ministre, Paris
-        details:
+        details: |
+          * Préparer les déplacements officiels et privés en Métropole, Outre-mer et à l'étranger du Premier Ministre pour la partie systèmes d'information et de communication (classiques et sécurisés),
+          * Mettre en oeuvre les moyens de communications nécessaires au Premier Ministre et en assurer l'exploitation durant les déplacements.
 
       - role: Chef d'équipe de déploiement systèmes et réseaux
         time: 2009 - 2014
         company: Secrétariat Général de la Défense et de la Sécurité Nationale, Paris
-        details:
+        details: |
+          * Préparer et réaliser le déploiement d'équipements informatiques et réseaux dédiés à des systèmes d'information sécurisés de crise, de la définition de l'architecture du site client à la mise en service,
+          * Assurer la maintenance et le support aux utilisateurs des systèmes déployés.
 
       - role: 'Administrateur système de communications embarqué  
         Airbus A330'
         time: 2009 - 2014
         company: Secrétariat Général de la Défense et de la Sécurité Nationale, Paris
-        details:
+        details: |
+          * Participer aux voyages officiels du Président de la République ou du Premier Ministre afin d'assurer le fonctionnement et l'exploitation de systèmes de communication sécurisés aéro-embarqués dans un Airbus A330 VIP,
+          * Participer à la qualification des systèmes aéro-embarqués dans les divers aéronefs de la flotte gouvernementale (Airbus A330, Falcon 7X, Falcon 2000 LX), et apporter l'expertise technique nécessaire au maintien en condition opérationnelle.
 
       - role: Administrateur/Exploitant de SIC Sécurisés
         time: 2005 - 2009
         company: Armée de l'air, Cognac
-        details:
+        details: |
+          * Assurer le Helpdesk et la supervision des systèmes informatiques et des systèmes de communication militaires spécifiques de la Base Aérienne,
+          * Administrer et opérer la messagerie formelle militaire et aéronautique destinée aux unités de la Base et entités rattachées,
       
 skills:
     title: Compétences &amp; Aptitudes
@@ -176,6 +225,8 @@ skills:
         level: 85%
       - name: Bash
         level: 85%
+      - name: Netbox/Nautobot
+        level: 80%
 
       - name: Docker/Podman
         level: 65%
