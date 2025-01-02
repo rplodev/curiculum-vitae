@@ -7,7 +7,7 @@ sidebar:
     # Profile information
     name: Romuald PALOMO
     tagline: Expert Réseaux et Télécommunications
-    avatar: stephane_philippart.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: romuald_palomo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: romuald.palomo@gmail.com
@@ -31,7 +31,7 @@ sidebar:
     interests:
       title: Centres d'intérêts
       info:
-        - item: Entraînement et présentation de chiens de sport
+        - item: Entraînement/Concours de chiens de sport
           link: 
 
         - item: Nouvelles technologies
@@ -124,37 +124,6 @@ experiences:
             * Gestion et automatisation du réseau : Développements internes
             * Outils d'ingénierie : DOORS, Jira
 
-projects:
-    title: Projets personnels
-    intro: 
-    assignments:
-      - title: TADx
-        link: https://www.tadx.fr
-        tagline: "Co-créateur d'un meetup à Tours. Ce meetup a pour objectif d'organiser un évènement par mois autour des sujets divers et variés que l'on peut trouver dans l’écosystème IT."
-
-      - title: Blog personnel
-        link: https://philippart-s.github.io/blog/
-        tagline: "Blog personnel pour partager autour de sujets techniques."
-
-      - title: Conférences données
-        link: https://noti.st/philippart-s
-        tagline: "Slides et vidéos des conférences données."
-
-oss:
-    title: Contributions Open Source
-    contributions:
-      - title: Jenkins conventional commits plugin
-        link: https://github.com/jenkinsci/conventional-commits-plugin/
-        tagline: "Plugin Jenkins permettant le calcule automatique des versions en fonction des messages de commit."
-
-      - title: Developers Conferences Agenda/List
-        link: https://github.com/scraly/developers-conferences-agenda
-        tagline: "Repository de centralisation des date de conférences et CFP."
-      
-      - title: LangChain4j
-        link: https://github.com/langchain4j/langchain4j/
-        tagline: "Repository permettant l'utilisation de LLM au sein d'applications Java."
-
 skills:
     title: Compétences &amp; Aptitudes
 
@@ -164,7 +133,7 @@ skills:
       - name: Télécommunications
         level: 80%
       - name: Voix et Vidéo sur IP
-        level: 100%
+        level: 95%
       - name: Cybersécurité
         level: 70%
 
