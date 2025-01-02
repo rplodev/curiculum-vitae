@@ -132,6 +132,25 @@ p {
       margin-bottom: 0px;
     }
   }
+  .certifications-container {
+    .name {
+      margin-bottom: 15px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+    .brand {
+      color: rgba(256, 256, 256, 0.6);
+      font-weight: 500;
+      margin-bottom: 0px;
+      margin-top: 0;
+    }
+    .time {
+      color: rgba(256, 256, 256, 0.6);
+      font-weight: 500;
+      margin-bottom: 0px;
+    }
+  }
   .languages-container {
     .lang-desc {
       color: rgba(256, 256, 256, 0.6);
@@ -179,6 +198,11 @@ p {
 
   .experiences-section,
   .educations-section {
+    .item {
+      margin-bottom: 30px;
+    }
+  }
+  .certifications-section {
     .item {
       margin-bottom: 30px;
     }

@@ -4,6 +4,10 @@
   {% include education.html %}
 {% endunless %}
 
+{% unless data.sidebar.certifications %}
+  {% include certifications.html %}
+{% endunless %}
+
 {% include experiences.html %}
 
 {% include projects.html %}

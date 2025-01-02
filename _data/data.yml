@@ -31,13 +31,13 @@ sidebar:
     interests:
       title: Centres d'intérêts
       info:
-        - item: Co-créateur du meetup TADx
-          link: https://www.tadx.fr
+        - item: Cynologie
+          link: 
 
-        - item: Running
+        - item: Nouvelles technologies
           link:
 
-        - item: Cuisine
+        - item: Bricolage/Jardinage
           link:
 
 career-profile:
@@ -73,6 +73,22 @@ education:
       - degree: Baccalauréat Scientifique
         university: Lycée de Borda, Dax
         time: 2003
+        details:
+
+certifications:
+    title: Certifications
+    info:
+      - name: Certification Stormshield Network Expert
+        brand: Stormshield
+        time: 2024 - 2027
+        details:
+      - name: Certification Stormshield Network Administrator
+        brand: Stormshield
+        time: 2023 - 2027
+        details:
+      - name: Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation
+        brand: CISCO Systems
+        time: 2023 - 2026
         details:
 
 experiences:
