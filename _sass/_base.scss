@@ -33,6 +33,10 @@ p {
   line-height: 1.5;
 }
 
+.summary {
+  font-size: 11px; 
+}
+
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
