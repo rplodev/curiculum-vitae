@@ -166,6 +166,8 @@ skills:
         level: 95%
       - name: Cybersécurité
         level: 70%
+      - name: Satcom
+        level: 65%
 
       - name: Linux
         level: 85%
