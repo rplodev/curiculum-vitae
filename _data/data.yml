@@ -156,32 +156,21 @@ skills:
     title: Compétences &amp; Aptitudes
 
     toolset:
-      - name: AI (Machine Learning)
-        level: 95%
-      - name: Tech writer
+      - name: Réseaux
+        level: 80%
+      - name: Télécommunications
+        level: 75%
+      - name: Voix et Vidéo sur IP
         level: 100%
-      - name: Speaker
-        level: 100%
-      - name: Evangelisation
-        level: 100%
-      - name: Cloud
-        level: 95%
-      - name: Architecture technique et logicielle
-        level: 90%
-
-      - name: Java
-        level: 98%
-      - name: Python
+      - name: Cybersecurity
         level: 70%
 
-      - name: Docker
-        level: 90%
-      - name: Kubernetes
-        level: 90%
+      - name: Python
+        level: 80%
+      - name: Bash
+        level: 80%
 
-      - name: Jenkins
-        level: 98%
-      - name: DevOps
-        level: 90%
+      - name: Docker/Podman
+        level: 60%
 
 footer: >
