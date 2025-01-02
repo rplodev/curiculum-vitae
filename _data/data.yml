@@ -144,12 +144,13 @@ experiences:
         company: Secrétariat Général de la Défense et de la Sécurité Nationale, Paris
         details:
 
-      - role: Administrateur système de communications embarqué - Airbus A330
+      - role: 'Administrateur système de communications embarqué  
+        Airbus A330'
         time: 10/2009 - 09/2014
         company: Secrétariat Général de la Défense et de la Sécurité Nationale, Paris
         details:
 
-      - role: Administrateur/Exploitant de systèmes d'information et de communication sécurisés
+      - role: Administrateur/Exploitant de SIC Sécurisés
         time: 05/2005 - 10/2009
         company: Armée de l'air, Cognac
         details:
