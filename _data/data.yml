@@ -12,10 +12,9 @@ sidebar:
     # Sidebar links
     email: romuald.palomo@gmail.com
     phone: +33 6 18 07 23 04
-    timezone: Paris/France Timezone
-    citizenship: Française
-    linkedin: romualdpalomo
-    pdf: /assets/pdf/cv-fr-stephane-philippart.pdf
+    citizenship: Français
+    linkedin: romuald-palomo
+    pdf: '/assets/pdf/R.PALOMO - CV.pdf'
 
     languages:
       title: Langues
@@ -32,7 +31,7 @@ sidebar:
     interests:
       title: Centres d'intérêts
       info:
-        - item: Cynologie
+        - item: Entraînement et présentation de chiens de sport
           link: 
 
         - item: Nouvelles technologies
