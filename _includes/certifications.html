@@ -7,11 +7,11 @@
       {{ certifications.title }}
     </h2>
 
-    {% for name in certifications.info %}
+    {% for certification in certifications.info %}
     <div class="item">
-      <h4 class="name">{{ certifications.name }}</h4>
-      <h5 class="brand">{{ certifications.brand }}</h5>
-      <div class="time">{{ certifications.time }}</div>
+      <h4 class="name">{{ certification.name }}</h4>
+      <h5 class="brand">{{ certification.brand }}</h5>
+      <div class="time">{{ certification.time }}</div>
     </div><!--//item-->
     {% endfor %}
 
@@ -27,22 +27,22 @@
       {{ certifications.title }}
     </h2>
 
-    {% for name in certifications.info %}
+    {% for certification in certifications.info %}
     <div class="item">
 
       <div class="meta">
 
         <div class="upper-row">
-          <h3 class="name">{{ certifications.name }}</h3>
-          <div class="time">{{ certifications.time }}</div>
+          <h3 class="name">{{ certification.name }}</h3>
+          <div class="time">{{ certification.time }}</div>
         </div><!--//upper-row-->
 
-        <div class="brand">{{ certifications.brand }}</div>
+        <div class="brand">{{ certification.brand }}</div>
       </div><!--//meta-->
 
-      {% if certifications.details %}
+      {% if certification.details %}
       <div class="details">
-        {{ certifications.details | markdownify }}
+        {{ certification.details | markdownify }}
       </div><!--//details-->
       {% endif %}
 
