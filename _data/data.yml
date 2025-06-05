@@ -45,7 +45,7 @@ career-profile:
     summary: |
       Après une carrière militaire relativement singulière par les fonctions que j'ai occupées et la reprise d'un parcours académique, j'ai eu la chance d'explorer au sein de l'industrie de défense les différentes facettes des métiers d'un Ingénieur Réseaux et Télécom, telles que l'Exploitation, l'Intégration, la Conception et la Spécification, ainsi que l'Architecture de systèmes sécurisés complexes.
 
-      Œuvrant aujourd'hui dans la fonction publique d'Etat, je contribue à la conception et la réalisation de systèmes de Télécommunications et Réseaux ainsi qu'à leur Automatisation et leur Supervision.
+      Œuvrant aujourd'hui dans la fonction publique d'Etat, je contribue à la conception, l'architecture et et pilotagee de la mise en service de systèmes de Télécommunications et Réseaux Sécurisés ainsi qu'à leur Automatisation et leur Supervision.
 
       Convaincu des bienfaits de l'utilisation de systèmes à logiciel prépondérant, je m'épanouis dans la conception, l'intégration et l'automatisation de systèmes sécurisés complexes basés sur de l'Open Source notamment dans des environnements de Réseaux et de Télécommunications contraints, hautement sécurisés et à forte criticité.
 
@@ -94,8 +94,28 @@ certifications:
 experiences:
     title: Experiences professionnelles
     info:
+      - role: Ingénieur Expert en Sécurité Réseaux
+        time: 2025 - Aujourd'hui
+        company: Ministère de l'Intérieur - Direction de la Transformation Numérique (DTNUM), Paris
+        details: |
+          Mes attributions sont les suivantes :
+            * Conception des évolutions des réseaux sécurisés de transport et d'infrastructure du Ministère de l'Intérieur,
+            * Pilotage des mise en service et mise en productions des systèmes conçus,
+            * Expertise en Sécurité des Réseaux de transport et d'infrastructure,
+            * Suivi technique de marchés publics, notamment dans les technologies POL/GPON,
+            * Expertise technique dans le domaine des réseaux sécurisés de transport et d'infrastructure,
+          
+          Les technologies sont les suivantes :
+            * Routage et commutation : CISCO, HPE, Aruba
+            * Firewall : Fortinet, Stormshield, Palo Alto
+            * Réseaux de chiffrement : Non divulgable
+            * Systèmes d'exploitation : Microsoft Windows, Linux Debian
+            * Simulation virtualisée : Eve-ng, PnetLab
+            * NSoT : Netbox, Nautobot
+            * Langages : Python, Bash
+
       - role: Expert Réseaux et Télécommunications 
-        time: 2022 - Aujourd'hui
+        time: 2022 - 2025
         company: OSIIC - Opérateur des Systèmes d’Information Interministériels Classifiés, Paris
         details: |
           Mes attributions sont les suivantes :
@@ -150,6 +170,7 @@ experiences:
             * Routage et commutation : CISCO, HPE, Alcatel Lucent, Equipements spécifiques aéro-embarqués
             * Voix et Vidéo : CISCO CUBE, Tandberg, M2MSoft S5000/G4000, Aastra A5000, Alcatel, AudioCodes, Polycom, Equipements spécifiques aéro-embarqués
             * Firewall : Stormshield, PfSense
+            * Réseaux de chiffrement : Echinops, Crypsis, Teorem
             * Systèmes d'exploitation : Linux Debian Sécurisé, Microsoft Windows
             * Langages : Bash, Python, Perl
             * Supervision : Nagios, Centreon
