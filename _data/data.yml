@@ -99,14 +99,15 @@ experiences:
         company: Ministère de l'Intérieur - Direction de la Transformation Numérique (DTNUM), Paris
         details: |
           Mes attributions sont les suivantes :
-            * Conception des évolutions des réseaux sécurisés de transport et d'infrastructure du Ministère de l'Intérieur,
-            * Pilotage des mise en service et mise en productions des systèmes conçus,
-            * Expertise en Sécurité des Réseaux de transport et d'infrastructure,
-            * Suivi technique de marchés publics, notamment dans les technologies POL/GPON,
-            * Expertise technique dans le domaine des réseaux sécurisés de transport et d'infrastructure,
+            * Conception des évolutions des réseaux de transport et d'infrastructure sécurisés du Ministère de l'Intérieur,
+            * Pilotage des mises en service et mises en production des systèmes conçus,
+            * Expertise en sécurité des séseaux de transport et d'infrastructure,
+            * Suivi technique de marchés publics, notamment pour les technologies POL/GPON,
+            * Expertise technique dans le domaine des réseaux de transport et d'infrastructure sécurisés,
           
           Les technologies sont les suivantes :
             * Routage et commutation : CISCO, HPE, Aruba
+            * POL/GPON : NOKIA
             * Firewall : Fortinet, Stormshield, Palo Alto
             * Réseaux de chiffrement : Non divulgable
             * Systèmes d'exploitation : Microsoft Windows, Linux Debian
@@ -131,7 +132,7 @@ experiences:
         time: 2023 - 2025
         company: ANSSI - Agence nationale de la sécurité des systèmes d'information, Paris
         details: |
-          Dispense du cours "Sécurité des architectures de Voix sur IP" suivi par les auditeurs du stage "Responsable de la sécurité des systèmes d’information (RSSI) - Aspects techniques".
+          Dispense du cours "Sécurité des architectures de Voix sur IP" suivi par les auditeurs du stage "17b - Responsable de la sécurité des systèmes d’information (RSSI) - Aspects techniques".
 
       - role: Architecte Réseaux
         time: 2020 - 2022
