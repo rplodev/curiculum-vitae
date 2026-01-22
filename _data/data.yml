@@ -45,7 +45,7 @@ career-profile:
     summary: |
       Après une carrière militaire relativement singulière par les fonctions que j'ai occupées et la reprise d'un parcours académique, j'ai eu la chance d'explorer au sein de l'industrie de défense les différentes facettes des métiers d'un Ingénieur Réseaux et Télécom, telles que l'Exploitation, l'Intégration, la Conception et la Spécification, ainsi que l'Architecture de systèmes sécurisés complexes.
 
-      Œuvrant aujourd'hui dans la fonction publique d'Etat, je contribue à la conception, l'architecture et et pilotagee de la mise en service de systèmes de Télécommunications et Réseaux Sécurisés ainsi qu'à leur Automatisation et leur Supervision.
+      Œuvrant aujourd'hui dans la fonction publique d'Etat, je contribue à la conception, l'architecture et le pilotage de la mise en service de systèmes de Télécommunications et Réseaux Sécurisés ainsi qu'à leur Automatisation et leur Supervision.
 
       Convaincu des bienfaits de l'utilisation de systèmes à logiciel prépondérant, je m'épanouis dans la conception, l'intégration et l'automatisation de systèmes sécurisés complexes basés sur de l'Open Source notamment dans des environnements de Réseaux et de Télécommunications contraints, hautement sécurisés et à forte criticité.
 
@@ -88,7 +88,7 @@ certifications:
         details:
       - name: Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation
         brand: CISCO Systems
-        time: 2023 - 2026
+        time: 2023 - 2028
         details:
 
 experiences:
@@ -103,10 +103,12 @@ experiences:
             * Pilotage des mises en service et mises en production des systèmes conçus,
             * Expertise en sécurité des séseaux de transport et d'infrastructure,
             * Suivi technique de marchés publics, notamment pour les technologies POL/GPON,
+            * Contribution à la rédaction de CCTP et au dépouillement des appels d'offres relatifs,
             * Expertise technique dans le domaine des réseaux de transport et d'infrastructure sécurisés,
+            * Expertise technique sur les sujet NetDevOps.
           
           Les technologies sont les suivantes :
-            * Routage et commutation : CISCO, HPE, Aruba
+            * Routage et commutation : CISCO, HPE, Aruba (LAN et WAN)
             * POL/GPON : NOKIA
             * Firewall : Fortinet, Stormshield, Palo Alto
             * Réseaux de chiffrement : Non divulgable
@@ -120,11 +122,12 @@ experiences:
         company: OSIIC - Opérateur des Systèmes d’Information Interministériels Classifiés, Paris
         details: |
           Mes attributions sont les suivantes :
-            * Conception et intégration de systèmes de téléphonie (VoIP, Legacy) à haute criticité et hautement sécurisés,
+            * Conception et intégration de systèmes de téléphonie (VoIP, Legacy, Cryptophonie) à haute criticité et hautement sécurisés,
             * Contribution à l'automatisation du déploiement et du maintien en condition de nos systèmes (NetDevOps),
             * Contribution à la définition, à la mise en service et au maintien en condition de réseaux sécurisés,
             * Conception et développement de systèmes de supervision,
-            * Support de niveau 3 aux équipes d'exploitation dans les domaines des Télécommunications et des Réseaux d'entreprises et d'opérateurs.
+            * Support de niveau 3 aux équipes d'exploitation dans les domaines des Télécommunications et des Réseaux d'entreprises et d'opérateurs,
+            * Conception et intégration de systèmes de communications tactiques, déployables ou aéro-transportables.
           
           Par soucis de confidentialité, le détail des technologies employées n'est pas communicable.
           
@@ -142,7 +145,7 @@ experiences:
           
           Mes attributions étaient : 
             * Concevoir l'architecture du Réseau et du Transport,
-            * Assurer le pilotage technique des équipes d'intégration en charge du Réseau,
+            * Assurer le pilotage technique des équipes d'intégration en charge du Réseau, et des équipes de développent en charge du pilotage informatisé du réseau de transport,
             * Spécifier les évolutions du logiciel de modélisation, de gestion et d'automatisation du Réseau et du Transport,
             * Mener des ateliers de conception pluridisciplinaire.
           
@@ -161,7 +164,7 @@ experiences:
           Ingénieur Système sur un projet de fourniture et d'exploitation d'un système de communications sécurisé embarqué dans un aéronef militaire de gamme civile.
       
           Mes attributions étaient :
-            * Contribuer à la définition de l'architecture, définir et spécifier les éléments des composants Backbone Réseau, Satcom, Interconnexions Opérateurs, Système Linux et Téléphonie (IP/Legacy),
+            * Contribuer à la définition de l'architecture, définir et spécifier les éléments des composants Backbone Réseau, Satcom, Interconnexions Opérateurs, Système Linux et Téléphonie (IP/Legacy/Cryptophonie),
             * Réaliser le cadrage technique et piloter techniquement les équipes chargées de l'intégration,
             * Concevoir une solution d'IPTV aéro-embarquée over Satcom,
             * Réaliser les développements du pilotage des liens satellites et des flux associés,
@@ -211,8 +214,7 @@ experiences:
           * Préparer et réaliser le déploiement d'équipements informatiques et réseaux dédiés à des systèmes d'information sécurisés de crise, de la définition de l'architecture du site client à la mise en service,
           * Assurer la maintenance et le support aux utilisateurs des systèmes déployés.
 
-      - role: 'Administrateur système de communications embarqué  
-        Airbus A330'
+      - role: 'Administrateur système de communications embarqué sur Airbus A330'
         time: 2009 - 2014
         company: Secrétariat Général de la Défense et de la Sécurité Nationale, Paris
         details: |
