@@ -78,6 +78,14 @@ education:
 certifications:
     title: Certifications
     info:
+      - name: "Réseaux d’accès optiques FTTH : XGSPON, 50GPON, convergence fixe-mobile et réseaux locaux fibre"
+        brand: Institut Mines-Télécom
+        time: 2025 -
+        details:
+      - name: "Réseaux d'accès optiques FTTH : Du GPON au XGSPON"
+        brand: Institut Mines-Télécom
+        time: 2025 - 
+        details:
       - name: Certification Stormshield Network Expert
         brand: Stormshield
         time: 2024 - 2027
@@ -247,7 +255,7 @@ skills:
         level: 85%
       - name: Python
         level: 85%
-      - name: Bash
+      - name: BashRéseaux d'accès optiques FTTH : Du GPON au XGSPON
         level: 85%
       - name: Netbox/Nautobot
         level: 80%
